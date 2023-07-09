@@ -25,19 +25,19 @@ This Bash script helps in creating and deleting virtual hosts for the Nginx web 
 3. Make the script executable:
 
    ```bash
-   chmod +x virtual_host.sh
+   chmod +x create_vhost.sh
    ```
 
 4. Create a virtual host:
 
    ```bash
-   ./virtual_host.sh create
+   ./create_vhost.sh create
    ```
 
 5. Delete a virtual host:
 
    ```bash
-   ./virtual_host.sh delete
+   ./create_vhost.sh delete
    ```
 
 ## License

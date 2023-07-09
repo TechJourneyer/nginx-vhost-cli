@@ -19,7 +19,7 @@ This Bash script helps in creating and deleting virtual hosts for the Nginx web 
 2. Navigate to the script directory:
 
    ```bash
-   cd nginx-virtual-host-cli
+   cd nginx-vhost-cli
    ```
 
 3. Make the script executable:
